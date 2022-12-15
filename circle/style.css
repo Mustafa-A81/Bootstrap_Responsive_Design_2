@@ -1,0 +1,12 @@
+.dark-blue-linear{
+    background: linear-gradient(90deg, rgb(6, 6, 6) 30%, rgb(101, 168, 236) 70%);
+}
+
+.blue-dark-linear{
+    background: linear-gradient(-90deg, rgb(6, 6, 6) 30%, rgb(101, 168, 236) 70%);
+}
+.white-grey-linear{
+    background: rgb(249,249,251);
+    background: linear-gradient(90deg, rgba(249,249,251,1) 35%, rgba(207,213,214,1) 100%);
+}
+
